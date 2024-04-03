@@ -2,7 +2,4 @@ streamlit
 joblib
 pandas
 nltk
-nltk.corpus
-nltk.tokenize
-nltk.stem
 sklearn == 1.4.1
