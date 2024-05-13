@@ -3,3 +3,5 @@ joblib
 pandas
 nltk
 scikit-learn
+import requests
+streamlit_lottie
